@@ -1,5 +1,5 @@
 # Real Estate Price Prediction Web Application
-
+![App Screenshot](https://github.com/AryanSheoran01/Real-Estate-Price-Prediction-App/blob/main/llll.png)
 This repository contains the source code and documentation for a real estate price prediction web application. The project is an end-to-end implementation, leveraging data science and machine learning techniques, and deployed using NGINX.
 
 ## Project Overview
