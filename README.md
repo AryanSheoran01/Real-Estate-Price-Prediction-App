@@ -66,5 +66,5 @@ This web application predicts real estate prices based on user input such as squ
 
 
 ## Acknowledgements
-- Dataset sourced from [Kaggle]().
+- Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data).
 
